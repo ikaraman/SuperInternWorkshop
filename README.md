@@ -1,3 +1,3 @@
 # SuperInternWorkshop
 
-- Invisible Superpower for Daryl BLAH BLAH
+- Invisible Superpower for Daryl
